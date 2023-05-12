@@ -123,7 +123,7 @@ Navigation page creation in Power BI
 Drill-Through creation in Power BI
 ![ Screenshot Drill through](https://imgbox.io/ib/t0pEUCCAJl.png)
 
-The Analysis is performed after full Data cleaning and Transformatio.
+The Analysis is performed after full Data cleaning and Transformation.
 
 [My Linkedin Prolife ](https://www.linkedin.com/in/sailaja-begum/)
 Sailaja Begum
