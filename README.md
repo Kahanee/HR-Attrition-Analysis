@@ -5,17 +5,17 @@
 [Link to dataset](https://www.kaggle.com/datasets/rohitsahoo/employee?select=train.csv)
 
 ![Screenshot of dashboard](https://imgur.com/fWuU5en.jpg)
-![Screenshot of dashboard](https://imgbox.io/ib/idrxpbwdAc.png)
-![Screenshot of dashboard](https://imgbox.io/ib/3EKuj6QPkN.png)
-![Screenshot of dashboard](https://imgbox.io/ib/8Wte2FzHSr.png)
-![Screenshot of dashboard](https://imgbox.io/ib/ctwEwvTcK1.png)
-![Screenshot of dashboard](https://imgbox.io/ib/cnbwBvUvjf.png)
+![Screenshot of dashboard](https://imgur.com/cAhYCWC.jpg)
+![Screenshot of dashboard](https://imgur.com/8XkWBja.jpg)
+![Screenshot of dashboard](https://imgur.com/GH6Xgva.jpg)
+![Screenshot of dashboard](https://imgur.com/zBIVB7X.jpg)
+![Screenshot of dashboard](https://imgur.com/mplUqP4.jpg)
 
 
 
 #### Final Table Relationship Modal View after Transformation:
 
-![Screenshot Table Relationship Model ](https://imgbox.io/ib/Mi0p94FHrm.png)
+![Screenshot Table Relationship Model ](https://imgur.com/6Umjt8C.jpg)
 
 
 
@@ -89,11 +89,11 @@ Overall, it is crucial to address the underlying factors contributing to attriti
 
 ###### Transform the raw data into proper column and rows
 Original Raw Dataset :
-![Screenshot Raw Data ](https://imgbox.io/ib/FLjytv9AFj.png)
+![Screenshot Raw Data ](https://imgur.com/D6kxFMG.jpg)
 
 Dataset after Power Query transformation
-![ Screenshot Dataset transformation](https://imgbox.io/ib/Xbji27hLBM.png)
-![Screenshot Dataset after Transformation](https://imgbox.io/ib/C4bdjSaEOF.png)
+![ Screenshot Dataset transformation](https://imgur.com/yItH7UB.jpg)
+![Screenshot Dataset after Transformation](https://imgur.com/ifNBTaQ.jpg)
 
 Creation of Customize Conditional Column -Create Conditional Column For Age,Department, Business Travel, Job Role, Educational field, Distance From Home,Total Working Year by grouping the values into ranges for better analysis.
 ![ Screenshot Custom Column creation](https://imgbox.io/ib/mZ4q000d8x.png)
