@@ -96,32 +96,32 @@ Dataset after Power Query transformation
 ![Screenshot Dataset after Transformation](https://imgur.com/ifNBTaQ.jpg)
 
 Creation of Customize Conditional Column -Create Conditional Column For Age,Department, Business Travel, Job Role, Educational field, Distance From Home,Total Working Year by grouping the values into ranges for better analysis.
-![ Screenshot Custom Column creation](https://imgbox.io/ib/mZ4q000d8x.png)
+![ Screenshot Custom Column creation](https://imgur.com/2fJ40Ji.jpg)
 
 Merge Queries
-![ Screenshot Merge queries](https://imgbox.io/ib/H7IFx95y0Q.png)
+![ Screenshot Merge queries](https://imgur.com/R48qU2S.jpg)
 
 Some of the Applied steps in Power Query for Data Transformation
-![ Screenshot Applied steps](https://imgbox.io/ib/t2XW1ndRs0.png)
+![ Screenshot Applied steps](https://imgur.com/PGMqWRW.jpg)
 
 Final Data tables created and transformed from 1 single table
-![ Screenshot Tables](https://imgbox.io/ib/Gpo6NNsB7O.png)
+![ Screenshot Tables](https://imgur.com/T6dVrdp.jpg)
 
 Sample DAX measures created in Power BI
-![ Screenshot Measures](https://imgbox.io/ib/MpHJRx1T2p.png)
+![ Screenshot Measures](https://imgur.com/3GQCRkp.jpg)
 
-![ Screenshot Measures ](https://imgbox.io/ib/hA9RnJTNtL.png)
+![ Screenshot Measures ](https://imgur.com/lXNvFlU.jpg)
 
-![ Screenshot Measures](https://imgbox.io/ib/Tx2zd8REeX.png)
+![ Screenshot Measures](https://imgur.com/4r8Xylt.jpg)
 
 All the Measures created in Power BI
-![ Screenshot Measures](https://imgbox.io/ib/Piz97QHMmt.png)
+![ Screenshot Measures](https://imgur.com/1o9XUZJ.jpg)
 
 Navigation page creation in Power BI
-![ Screenshot Navigation ](https://imgbox.io/ib/pN06d273hh.png)
+![ Screenshot Navigation ](https://imgur.com/3tGxGUG.jpg)
 
 Drill-Through creation in Power BI
-![ Screenshot Drill through](https://imgbox.io/ib/t0pEUCCAJl.png)
+![ Screenshot Drill through](https://imgur.com/mXOz2Tt.jpg)
 
 The Analysis is performed after full Data cleaning and Transformation.
 
