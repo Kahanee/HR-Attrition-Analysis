@@ -4,7 +4,7 @@
 
 [Link to dataset](https://www.kaggle.com/datasets/rohitsahoo/employee?select=train.csv)
 
-![Screenshot of dashboard](https://imgbox.io/ib/LNHBeDLy0N.png)
+![Screenshot of dashboard](https://imgur.com/fWuU5en.jpg)
 ![Screenshot of dashboard](https://imgbox.io/ib/idrxpbwdAc.png)
 ![Screenshot of dashboard](https://imgbox.io/ib/3EKuj6QPkN.png)
 ![Screenshot of dashboard](https://imgbox.io/ib/8Wte2FzHSr.png)
